@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1646881064 source:c:\users\user\desktop\configreader\main.cpp
+	"simple_config.h"
+
+1646883462 c:\users\user\desktop\configreader\simple_config.h
+	<iostream>
+	<string.h>
+	<map>
+	<fstream>
+	<sstream>
+
